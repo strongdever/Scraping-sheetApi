@@ -1,0 +1,18 @@
+{
+    "name": "sheets-api-snippets",
+    "version": "1.0.0",
+    "description": "Code snippets for the Sheets API",
+    "private": true,
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@google-cloud/local-auth": "^2.1.0",
+        "expect": "^29.2.1",
+        "google-auth-library": "^8.2.0",
+        "googleapis": "^105.0.0",
+        "mocha": "^10.0.0",
+        "puppeteer": "^19.1.2"
+    }
+}
